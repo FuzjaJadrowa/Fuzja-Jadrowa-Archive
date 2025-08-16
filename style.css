@@ -81,7 +81,7 @@ main h2 {
     padding: 0;
     width: 100%;
     max-width: 400px;
-    margin: 0;
+    margin: 20px auto 0;
 }
 
 .download-list li {
